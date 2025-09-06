@@ -28,7 +28,6 @@ It’s a **Weather Application** where users can:
 ├── index.html       
 ├── style.css        
 ├── script.js         
-├── screenshot.png 
 └── README.md 
 
 ## 📸 Screenshots  
